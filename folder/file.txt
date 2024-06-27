@@ -1,0 +1,13 @@
+echo hello
+proclore
+sleep 100 &
+ping 28475 9
+activities
+git &
+make
+proclore
+make
+./a.out
+make
+./a.out
+proclore
